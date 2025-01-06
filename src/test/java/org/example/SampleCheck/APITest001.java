@@ -1,6 +1,4 @@
-package org.example;
-
-import io.restassured.RestAssured;
+package org.example.SampleCheck;
 
 public class APITest001 {
     public static void main(String[] args) {
